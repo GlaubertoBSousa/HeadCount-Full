@@ -1,4 +1,4 @@
-# HeadCount Full
+# HEADCOUNT FULL
  Repositório para o sistema de controle de headcount
 
  ## Principais Funcionalidades
